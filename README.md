@@ -68,6 +68,6 @@ It features user authentication, subscriptions, payments, AI-powered voice tutor
 
 ### Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/saas-lms-app.git
+git clone https://github.com/irfxnpatell/saas-lms-app.git
 cd saas-lms-app
 npm install
