@@ -12,16 +12,6 @@
   <h3 align="center">SaaS App - LMS with Next.js, Supabase & Payments</h3>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)  
-2. ⚙️ [Tech Stack](#tech-stack)  
-3. 🔋 [Features](#features)  
-4. 🤸 [Quick Start](#quick-start)  
-5. 🔗 [Assets](#links)  
-
----
-
 ## <a name="introduction">🤖 Introduction</a>
 
 This project is a **Learning Management SaaS App (LMS)** built with **Next.js, Supabase, Stripe, and Vapi**.  
